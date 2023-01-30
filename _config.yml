@@ -88,7 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=lN1c2PwAAAAJ&hl=tr"
   email            :
-  researchgate     :  example: "https://www.researchgate.net/profile/Buse-Sibel-Korkmaz"
+  researchgate     :  "https://www.researchgate.net/profile/Buse-Sibel-Korkmaz"
   uri              :
   bitbucket        :
   codepen          :
