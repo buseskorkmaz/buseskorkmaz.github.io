@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Engineering, Istanbul Technical University, 2021
-* B.S. in Industrial Engineering, Istanbul Technical University, 2021
-* Ph.D in Artificial Intelligence and Autonomous Systems, Imperial College London, 2025 (expected)
+* BSc. in Computer Engineering, Istanbul Technical University, 2021
+* BSc. in Industrial Engineering, Istanbul Technical University, 2021
+* PhD. in Artificial Intelligence and Autonomous Systems, Imperial College London, 2025 (expected)
 
 Work experience
 ======
