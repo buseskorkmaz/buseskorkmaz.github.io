@@ -46,9 +46,6 @@ Skills
   * TensorFlow
   * PyTorch
 * C/C++
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
 * Cloud programming
   * AWS (DynamoDB, SageMaker, EC2, S3)
   * Azure
