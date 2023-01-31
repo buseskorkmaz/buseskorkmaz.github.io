@@ -37,6 +37,7 @@ Internships
   * Optimized the management of promotion budgets as boosting YoY ROI ratio by constructing a promotion efficiency prediction and recommendation tool with Python and rule-based machine learning methods whilst complying related GDPR rules.
 
 * July 2018 - September 2018: Research Intern
+  * Imperial College London
   * Boosted throughput rates in seconds and decreased the storage amount need by optimizing the compression algorithm using Go language in distributed versioned image deployment program to store high quality bioinformatics images.
 
 Skills
