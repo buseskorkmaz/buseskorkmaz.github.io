@@ -19,7 +19,7 @@ Work experience
 ======
 * September 2021 - May 2022: Machine Learning Engineer
   * Comcast
-  * Reduced serving time by 20% to 12 ms by building the online feature store using SageMaker to daily ingest and serve in inference; deployed embedding/aggregated feature pipelines to online feature store to  educe query amounts to database and response times.
+  * Reduced serving time to 12 ms by building the online feature store using SageMaker to daily ingest and serve in inference; deployed embedding/aggregated feature pipelines to online feature store to  educe query amounts to database and response times.
   * Improved the performance of bidding models by decreasing cost-per-click by 9% through developing a sentence embedding model by integrating bidding features into sentences through an advanced natural language processing model, BERT.
 
 * March 2021 - August 2021: Business Analyst
