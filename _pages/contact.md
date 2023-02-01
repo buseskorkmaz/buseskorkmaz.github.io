@@ -5,4 +5,6 @@ permalink: /contact/
 author_profile: true
 ---
 
-[contact me] (buse.korkmaz18 [at] imperial.ac.uk)
+## Contact me!
+
+- Email: [{{buse.korkmaz18@imperial.ac.uk}}](mailto:{{buse.korkmaz18@imperial.ac.uk}})
