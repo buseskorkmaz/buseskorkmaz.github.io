@@ -1,10 +1,8 @@
 ---
 layout: single
-title: "Contact"
+title: "Contact me!"
 permalink: /contact/
 author_profile: true
 ---
 
-## Contact me!
-
-- Email: [{{ buse.korkmaz18@imperial.ac.uk }}](mailto:{{ buse.korkmaz18@imperial.ac.uk }})
+Email: [{{ buse.korkmaz18@imperial.ac.uk }}](mailto:{{ buse.korkmaz18@imperial.ac.uk }})
