@@ -1,7 +1,7 @@
 ---
-permalink: /
+layout: single
 title: "Contact"
-excerpt: "Contact"
+permalink: /contact/
 author_profile: true
 ---
 
