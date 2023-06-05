@@ -14,8 +14,8 @@ Before my PhD, I was an undergraduate student at Istanbul Technical University s
 
 ## Recent News
 
-- June 2023: Starting to my internship at IBM Research for Enhancing Fairness in LLMs using Safe Reinforcement Learning!
-- May 2023: Our paper on uncertainty quantification with ensemble learning (https://arxiv.org/abs/2211.13019) is accepted to IEEE INDIN 2023!
-- March 2023: Our paper on safe optimization (https://arxiv.org/abs/2211.13019) is accepted to IFAC WC 2023!
-- March 2023: Successfully passed Early Stage Assessment at Imperial! 
-- November 2022: Reviewing for AISTATS 2023.
+- **June 2023:** Starting to my internship at IBM Research for Enhancing Fairness in LLMs using Safe Reinforcement Learning!
+- **May 2023:** Our paper on uncertainty quantification with ensemble learning is accepted to IEEE INDIN 2023!
+- **March 2023:** Our paper on safe optimization (https://arxiv.org/abs/2211.13019) is accepted to IFAC WC 2023!
+- **March 2023:** Successfully passed Early Stage Assessment at Imperial! 
+- **November 2022:** Reviewing for AISTATS 2023.
